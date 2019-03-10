@@ -23,7 +23,7 @@ var friends = [
   },
   {
     name: "Bob Smith",
-    photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    photo: "http://mediad.publicbroadcasting.net/p/wxxi/files/styles/x_large/public/201703/bob_smith_photo2-new.jpg",
     scores: [
       "4",
       "2",
@@ -39,7 +39,7 @@ var friends = [
   },
   {
     name: "Michael Doe",
-    photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+    photo: "http://s3.amazonaws.com/csvweb/obituaries/photos/5535/575338/5c27b90ab99ee.JPG",
     scores: [
       "5",
       "2",
@@ -55,7 +55,7 @@ var friends = [
   },
   {
     name: "Larry Johnson",
-    photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+    photo: "https://pmcdeadline2.files.wordpress.com/2017/03/taylor-john-smith-2.jpg?crop=249px%2C25px%2C873px%2C586px&resize=446%2C299",
     scores: [
       "3",
       "3",
@@ -71,7 +71,7 @@ var friends = [
   },
   {
     name: "Jose Sanchez",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+    photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebWbtYFnG2PomCjQ8wVX-qBOjTdQ01h5hm2AzLYaQ7HWbf2fWrw",
     scores: [
       "4",
       "3",
@@ -87,7 +87,7 @@ var friends = [
   },
   {
     name: "Mike Jorden",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+    photo: "https://pbs.twimg.com/profile_images/2221073268/John_Headshot_-_square.jpg",
     scores: [
       "4",
       "4",
