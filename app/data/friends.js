@@ -6,8 +6,8 @@
 
 var friends = [
   {
-    name: "Ahmed",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+    name: "Martin Der",
+    photo: "https://static1.squarespace.com/static/58594172893fc07d5b88dd15/t/5a01af32c83025f467375542/1510059837281/martin-clunes.jpg",
     scores: [
       "5",
       "1",
